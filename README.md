@@ -16,23 +16,3 @@ HTML, CSS, React, Node.js, Express.js, socket.io
 
 ### [Репозиторий бэкенда](https://github.com/Kalibryyy/superkassa-test-task-api)
 
-## Установка:
-Перед началом работы необходимо проверить наличие установленного node.js и npm
-
-Скопируйте проект на компьютер:
-```bash
-git clone https://github.com/kronos2033/hackathon_2025_07.git
-```
-
-Установите зависимости:
-```bash
-npm install
-```
-
-Запуск приложения:
-```bash
-npm start
-```
-
-По дефолту приложение запустится на 3000 порту
-
